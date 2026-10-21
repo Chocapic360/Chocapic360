@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi I'm Val 👋
 
-<!--
-**Chocapic360/Chocapic360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical Engineering (B.S.) and Mathematics (B.A.) student at Texas Christian University in Fort Worth, TX, focused on offensive security.
 
-Here are some ideas to get you started:
+### 🔐 Security
+- Working toward the **HTB Certified Penetration Testing Specialist (CPTS)**
+- Practice areas: enumeration, privilege escalation, web exploitation, Active Directory, reverse engineering, password attacks
+- Tools: Exegol · Nmap · Burp Suite · Ghidra · Metasploit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Projects
+| Project | Description |
+|---|---|
+| [RealmDeathSnitch](https://github.com/Chocapic360/RealmDeathSnitch) | Discord bot that scrapes game data and announces guild member deaths (Python, Docker, Beautiful Soup) |
+| [ESP32-LightSwitch](https://github.com/Chocapic360/ESP32-LightSwitch) | Controls Govee RGB lights with keyboard switches on an ESP32 (C++) |
+| [StiffnessMatrix](https://github.com/Chocapic360/StiffnessMatrix) | Builds stiffness matrices for solid mechanics problems (Python) |
+| [Sound-Processing-in-Matlab](https://github.com/Chocapic360/Sound-Processing-in-Matlab) | Tone and composite signal synthesis (MATLAB) |
