@@ -10,7 +10,7 @@ Electrical Engineering (B.S.) and Mathematics (B.A.) student at Texas Christian 
 
 ### 📝 Reports
 
-<a href="https://github.com/zane-ops/zane-ops/security/advisories/GHSA-566p-j668-9j79"><img src="https://github.com/zane-ops.png?size=40" width="20" height="20" alt="ZaneOps"></a> <a href="https://github.com/zane-ops/zane-ops/security/advisories/GHSA-566p-j668-9j79"><img src="https://img.shields.io/badge/GHSA--566p--j668--9j79-Critical%209.9-critical?style=flat&amp;logo=docker&amp;logoColor=white" alt="GHSA-566p-j668-9j79: Critical 9.9"></a> &nbsp;&nbsp;<b>ZaneOps</b>: Remote Command Injection via Git Branch Name in ZaneOps
+<a href="https://github.com/zane-ops/zane-ops/security/advisories/GHSA-566p-j668-9j79"><img src="https://github.com/zane-ops.png?size=40" width="20" height="20" alt="ZaneOps"></a> <a href="https://github.com/zane-ops/zane-ops/security/advisories/GHSA-566p-j668-9j79"><img src="https://img.shields.io/badge/GHSA--566p--j668--9j79-Critical%209.9-critical?style=flat&amp;logo=docker&amp;logoColor=white" alt="GHSA-566p-j668-9j79: Critical 9.9"></a> &nbsp;&nbsp;<b>ZaneOps</b>: Remote Command Injection via Git Branch Name
 
 ### 🛠️ Projects
 | Project | Description |
