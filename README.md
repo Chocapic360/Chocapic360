@@ -9,7 +9,7 @@ Electrical Engineering (B.S.) and Mathematics (B.A.) student at Texas Christian 
 
 #### Reports
 
-[Remote Command Injection via Git Branch Name in ZaneOps]([url](https://github.com/zane-ops/zane-ops/security/advisories/GHSA-566p-j668-9j79))
+[Remote Command Injection via Git Branch Name in ZaneOps](https://github.com/zane-ops/zane-ops/security/advisories/GHSA-566p-j668-9j79)
 
 ### 🛠️ Projects
 | Project | Description |
