@@ -22,4 +22,4 @@ Electrical Engineering (B.S.) and Mathematics (B.A.) student at Texas Christian 
 
 #
 
-[![HTB](https://www.hackthebox.com/badge/image/3334866)](https://app.hackthebox.com/profile/3334866)
+[![HTB](https://www.hackthebox.com/badge/image/3334866)](https://profile.hackthebox.com/profile/019d4f8e-7713-7136-b061-85fbccab1514?utm_medium=copy_url)
