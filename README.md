@@ -3,9 +3,13 @@
 Electrical Engineering (B.S.) and Mathematics (B.A.) student at Texas Christian University in Fort Worth, TX, focused on offensive security.
 
 ### 🔐 Security
-- Working toward the **HTB Certified Penetration Testing Specialist (CPTS)**
+- Working toward the HTB Certified Penetration Testing Specialist (CPTS) certification
 - Practice areas: enumeration, privilege escalation, web exploitation, Active Directory, reverse engineering, password attacks
 - Tools: Exegol · Nmap · Burp Suite · Ghidra · Metasploit
+
+#### Reports
+
+[Remote Command Injection via Git Branch Name in ZaneOps]([url](https://github.com/zane-ops/zane-ops/security/advisories/GHSA-566p-j668-9j79))
 
 ### 🛠️ Projects
 | Project | Description |
